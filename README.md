@@ -16,7 +16,7 @@
 			<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
 			<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">	
 			<br>
-			<img alt="Angular" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">			
+			<img alt="Angular" src="https://img.shields.io/badge/Angular-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">			
 			<br>											
 		</td>
 	</tr>
@@ -26,14 +26,14 @@
 			<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white">
 			<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white">
 			<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
-			<img alt="Java" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white">
+			<img alt="Java" src="https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=Express&logoColor=white">
 		</td>
 	</tr>
 	<tr>
 		<td>Database</td>
 		<td>
 			<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
-			<img alt="Oracle" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
+			<img alt="Oracle" src="https://img.shields.io/badge/Oracle-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
 		</td>
 	</tr>	
 </table>
